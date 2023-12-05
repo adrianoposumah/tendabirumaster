@@ -310,7 +310,7 @@
                         window.location.href = 'Tendabiru/admin/';
                         break;
                     case 'Manager':
-                        window.location.href = 'Tendabiru/admin/';
+                        window.location.href = 'Tendabiru/manager/';
                         break;
                     case 'Staff':
                         window.location.href = 'Tendabiru/staff/';
